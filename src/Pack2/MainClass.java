@@ -14,7 +14,7 @@ public class MainClass {
         System.out.println("Prueba nick Github.");
         System.out.println("Hola hola.");
         System.out.println("");
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 10; i = i + 26) {
             System.out.println(i);
         }
     }
