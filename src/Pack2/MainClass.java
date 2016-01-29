@@ -13,5 +13,9 @@ public class MainClass {
     public static void main(String[] args) {
         System.out.println("Prueba nick Github.");
         System.out.println("Hola hola.");
+        System.out.println("");
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
     }
 }
